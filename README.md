@@ -5,6 +5,7 @@ essentially ppm but worse
 
 # dependencies
 scaryViewer: opengl glfw
+
 png2scaryjpeg: stb_image.h
 
 # build 
